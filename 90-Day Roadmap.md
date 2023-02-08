@@ -8,11 +8,11 @@ You will go through 3 LinkedIn learning video’s on profile optimization and co
 
 As you finish each of the training modules you will make a LinkedIn post with 3 key takeaways. What did you learn, how you would use that information in your future role, and what could you do to make the course better? Once again this will build your LinkedIn profile more recruiter ready. 
 
-10-30 | Study for Microsoft DP-900 Azure Data Fundamemtals.
+10-30 | [Study for Microsoft DP-900 Azure Data Fundamemtals.](http://shorturl.at/mvPWX)
 
 Your first foray into the Microsoft Exam world will focus completely on the Data Basics with Microsoft Azure.  With each lesson, you will again post your lessons learned following the Three basics above. As you finish your studies you will schedule your exam. Once you PASS the exam you will officially understand the fundamentals of Azure Data. 
 
-30-45 | Complete the Power Platform Fundamentals PL-900
+30-45 | [Complete the Power Platform Fundamentals PL-900](http://shorturl.at/ortuG)
 
 As important as the Azure basics you must also understand the capabilities of the Microsoft Power platform and its position for organizations.  Next, as you reach your halfway point you will be certified in both the Azure Data and Microsoft Data fundamentals. 
 
@@ -20,7 +20,7 @@ As important as the Azure basics you must also understand the capabilities of th
 
 You will build 3 PowerBi projects. The first will be one from Microsoft themselves. Second, you will take one from my background; using a prebuilt PowerBI template to create an Email Security visualization. And finally one of your choosing. However, with the final visualization, you will be tasked to draft an executive presentation on your visualization with your deductions. 
 
-70-85 | Complete the Power BI Data Analyst
+70-85 | [Complete the Power BI Data Analyst](http://shorturl.at/iyV58)
 
 As you wrap up your training you will complete the PowerBI Data Analyst Administrator certification. This will validate to the world, but more importantly yourself that you are ready for your career. 
 
