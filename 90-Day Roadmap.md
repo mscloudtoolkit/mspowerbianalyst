@@ -4,7 +4,7 @@
 
 You will go through 3 LinkedIn learning video’s on profile optimization and content creation. In other words how to leverage your LinkedIn profile to be your portfolio. The final stage will be to post your first “training update”. Something like “ my road to PowerBI Analyst in 90 days”.
 
-3-10 | Complete the training Data Analyst Beginner Training. 
+3-10 | [Complete the training Data Analyst Beginner Training.](http://shorturl.at/wIN68)
 
 As you finish each of the training modules you will make a LinkedIn post with 3 key takeaways. What did you learn, how you would use that information in your future role, and what could you do to make the course better? Once again this will build your LinkedIn profile more recruiter ready. 
 
